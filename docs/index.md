@@ -5,4 +5,4 @@ title: index
 
 ![[BeispielA_Aufgabenstellung.png|200]]
 
-#mini_example
+#mini_example #test
