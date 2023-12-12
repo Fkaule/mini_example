@@ -3,6 +3,6 @@ publish: true
 title: index
 ---
 
-![[BeispielA_Aufgabenstellung.png|200]]
+![200](BeispielA_Aufgabenstellung.png)
 
 #mini_example #test
